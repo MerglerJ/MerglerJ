@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nah I'd Win.
-- 👀 I’m interested in the one who left it all behind. 
-- 🌱 I’m currently learning are you Nah I'd Win because sacred treasure swing, or are you the honored one because Nah I'd Win.
-- 💞️ I’m looking to collaborate on stand proud Sukana, for you are strong.
-- 📫 You can reach me via I'm you.
+- 👋 Hi, I’m Jonah Mergler.
+- 👀 I’m interested in nature and mathematics. 
+- 🌱 I’m currently learning R and data analytics.
+- 💞️ I’m looking to collaborate on anything.
+- 📫 You can reach me via my email.
 
 <!---
 MerglerJ/MerglerJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
